@@ -1,0 +1,33 @@
+WAREHOUSE THROUGHPUT PREDICTION — PROJECT BRIEF
+
+Objective:
+Predict hourly warehouse throughput using simulated operational data.
+
+Dataset:
+3,000 synthetic hourly observations.
+
+Features:
+Staff count, order volume, average items per order, average pick distance,
+automation utilization, absenteeism, equipment downtime, new-hire share,
+shift, day of week, and peak-period indicator.
+
+Models:
+Linear Regression, Random Forest Regression, Gradient Boosting Regression.
+
+Best model:
+Linear Regression
+
+Performance:
+MAE = 6.22 units/hour
+RMSE = 7.77 units/hour
+R² = 0.828
+
+Top operational drivers:
+staff_count, order_volume, equipment_downtime_min, shift, automation_utilization_pct
+
+Portfolio value:
+Demonstrates Python, data analysis, machine learning, model evaluation,
+operations thinking, and Industrial Engineering applications.
+
+Data disclosure:
+All data are synthetic and were created specifically for this portfolio project.

@@ -1,0 +1,12 @@
+Feature,Importance
+staff_count,9.587078227102177
+order_volume,3.2820646603441084
+equipment_downtime_min,1.639507344098261
+shift,1.3308578114330707
+automation_utilization_pct,1.198302384556554
+avg_pick_distance_m,0.6966189396700297
+absenteeism_pct,0.5101547318521618
+avg_items_per_order,0.43033565673607505
+new_hire_share_pct,0.41978788815705165
+peak_period,0.20672175439377302
+day_of_week,0.19163186325285783
